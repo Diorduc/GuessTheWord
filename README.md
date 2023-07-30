@@ -4,7 +4,7 @@ Welcome to the Guessing Game! This is a simple word guessing game where the play
 
 ## How to Play
 
-1. Clone the repository to your local machine using `git clone <repository_url>`.
+1. Clone the repository to your local machine using `git clone <https://github.com/Diorduc/GuessingGame>`.
 
 2. Compile the C++ code using a C++ compiler (e.g., g++).
 
